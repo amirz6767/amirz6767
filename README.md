@@ -39,7 +39,7 @@
 ### 🌌 Власть Тёмной Стороны
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlIDueXmcWnOP0Q/giphy.gif" width="600px" alt="Sith Lord" />
+  <img src="[https://media.giphy.com/media/l0HlIDueXmcWnOP0Q/giphy.gif](https://tenor.com/view/anakin-darth-vader-hayden-christensen-anakin-skywalker-star-wars-gif-9326847164399588651)" width="600px" alt="Sith Lord" />
 </p>
 
 ---
