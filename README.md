@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">Привет! Я Амирхан Мавлонов ⚡</h1>
 
-<!--
-**amirz6767/amirz6767** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8b0000&height=200&section=header&text=Amirkhan%20Mavlonov&fontSize=50&animation=twinkle&fontColor=ffffff" width="100%" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Welcome+to+the+Dark+Side...;Full-Stack+Developer;Architecting+Digital+Galaxies..." alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔴 Обо мне / The Dark Side
+
+Разработчик, создающий мощные веб-платформы и укрощающий сложные архитектуры.
+
+- ⚔️ **Текущий проект:** Разработка интерактивных веб-платформ
+- ⚡ **Изучаю:** Веб-технологии, архитектуру CPU/GPU и Python
+- 🔴 **Задавайте вопросы про:** Разработку сайтов и логику приложений
+- 💬 **Связь со мной:** [Ваш Telegram / Email]
+
+> *"Did you ever hear the Tragedy of Darth Plagueis the Wise?"* — Император Палпатин (Дарт Сидиус)
+
+---
+
+### 🗡️ Арсенал и Инструменты
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-8B0000?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-4A0000?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-FF0000?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-8B0000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-330000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+### 🌌 Власть Тёмной Стороны
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlIDueXmcWnOP0Q/giphy.gif" width="600px" alt="Sith Lord" />
+</p>
+
+---
+
+### ⚙️ Статистика Могущества
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amirz6767&show_icons=true&theme=blood&hide_border=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirz6767&layout=compact&theme=blood&hide_border=false" />
+</p>
