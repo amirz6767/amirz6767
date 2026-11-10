@@ -1,10 +1,8 @@
 <h1 align="center">Привет! Я Амирхан Мавлонов ⚡</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8b0000&height=200&section=header&text=Amirkhan%20Mavlonov&fontSize=50&animation=twinkle&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8b0000&height=50&section=header&text=Amirkhan%20Mavlonov&fontSize=50&animation=twinkle&fontColor=ffffff" width="100%" />
 </p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Welcome+to+the+Dark+Side...;Full-Stack+Developer;Architecting+Digital+Galaxies..." alt="Typing SVG" />
 </p>
 
