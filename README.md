@@ -29,4 +29,22 @@
   <img src="https://img.shields.io/badge/JavaScript-FF0000?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-8B0000?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-330000?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+### 🌌 Власть Тёмной Стороны
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/Q8K4q8K4q8KAAAAC/anakin-darth-vader.gif" width="500px" alt="Anakin / Darth Vader" />
+</p>
+
+---
+
+### ⚙️ Статистика Могущества
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amirz6767&show_icons=true&theme=blood&hide_border=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirz6767&layout=compact&theme=blood&hide_border=false" />
+</p>
