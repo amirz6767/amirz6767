@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/Git-330000?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
+  <img src="https://camo.githubusercontent.com/92dc221a8ec5fd306f172bc9514595df08efa11704576653ebb71de0913a192f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3243413545303f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465" />
 </p>
 
 ---
