@@ -19,8 +19,6 @@
 - 🔴 **Задавайте вопросы про:** Разработку сайтов и логику приложений
 - 💬 **Связь со мной:** [Ваш Telegram / Email]
 
-> *"Did you ever hear the Tragedy of Darth Plagueis the Wise?"* — Император Палпатин (Дарт Сидиус)
-
 ---
 
 ### 🗡️ Арсенал и Инструменты
@@ -31,22 +29,4 @@
   <img src="https://img.shields.io/badge/JavaScript-FF0000?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-8B0000?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-330000?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
----
-
-### 🌌 Власть Тёмной Стороны
-
-<p align="center">
-  <img src="[https://media.giphy.com/media/l0HlIDueXmcWnOP0Q/giphy.gif](https://tenor.com/view/anakin-darth-vader-hayden-christensen-anakin-skywalker-star-wars-gif-9326847164399588651)" width="600px" alt="Sith Lord" />
-</p>
-
----
-
-### ⚙️ Статистика Могущества
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amirz6767&show_icons=true&theme=blood&hide_border=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirz6767&layout=compact&theme=blood&hide_border=false" />
-</p>
+  <img src="
