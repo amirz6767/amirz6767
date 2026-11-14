@@ -42,7 +42,7 @@
 
 ---
 
-### ⚙️ Статистика Могущества
+### ⚙️ Статистика Могущества и величия
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amirz6767&show_icons=true&theme=blood&hide_border=false" />
